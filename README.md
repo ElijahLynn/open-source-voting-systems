@@ -34,6 +34,9 @@ http://ncase.me/ballot (prototypes/simulations)
 #### Building Reliable Voting Machine Software by Ka-Ping Yee
 http://zesty.ca/pubs/yee-phd.pdf (basis for Open Voting Consortium)
 
+#### Remotegrity: Design and Use of an End-to-End Verifiable Remote Voting System
+http://users.encs.concordia.ca/~clark/papers/2013_acns.pdf
+
 ## Notable People Interested
 
 * Alan Dechert 
