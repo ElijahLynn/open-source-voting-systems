@@ -3,6 +3,9 @@ If we can land a spaceship on the moon with precision accuracy then we should be
 
 Here is list of open source voting systems and related ideas/materials that I have been gathering over the years. This probably should be in Wikipedia at some point. PRs welcome and anyone interested in helping review and merge!
 
+## Specification
+1. https://gitlab.com/elijahlynn/open-election-voting-specification (WIP)
+
 ## Organizations
 
 1. Open Voting Consortium http://www.openvotingconsortium.org/
@@ -42,6 +45,8 @@ http://users.encs.concordia.ca/~clark/papers/2013_acns.pdf
 * Alan Dechert 
 * Nicky Case
 * Ka-Ping Yee
+
+
 
 
 
