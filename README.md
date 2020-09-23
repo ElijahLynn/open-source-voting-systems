@@ -29,7 +29,7 @@ Notable responses:
 #### CHVote - Swiss/Switzerland E-voting system > https://republique-et-canton-de-geneve.github.io/chvote-1-0/index-en.html
 Hacker News discussion > https://news.ycombinator.com/item?id=13175388
 
-https://www.wired.com/story/dana-debeauvoir-texas-county-clerk-voting-tech-revolution/
+https://www.wired.com/story/dana-debeauvoir-texas-county-clerk-voting-tech-revolution/  
 https://github.com/microsoft/electionguard
 
 
