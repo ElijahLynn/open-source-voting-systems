@@ -44,6 +44,8 @@ http://zesty.ca/pubs/yee-phd.pdf (basis for Open Voting Consortium)
 #### Remotegrity: Design and Use of an End-to-End Verifiable Remote Voting System
 http://users.encs.concordia.ca/~clark/papers/2013_acns.pdf
 
+#### https://schicks.github.io/posts/visualizing-voting-systems/
+
 ## Notable People Interested
 
 * Alan Dechert 
